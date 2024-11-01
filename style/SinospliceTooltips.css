@@ -1,0 +1,11 @@
+.sinosplicetooltip, .tooltip, .info, .popup {
+   border-bottom: 1px dotted #0af;
+   cursor: help;
+
+   /* optional effects--uncomment to activate them */
+   /* background-color: #ff9; */
+   /* font-weight: bold; */
+
+}
+
+#btc { z-index: 99999; }
